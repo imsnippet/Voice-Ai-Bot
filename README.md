@@ -1,6 +1,8 @@
 # **🧠 VoiceMind AI Pro**
 
-VoiceMind AI Pro is an advanced, multi-lingual AI voice assistant designed to provide a seamless conversational experience. It can transcribe spoken words, translate between multiple languages, generate intelligent AI responses, and even analyze the authenticity and sentiment of a voice recording.
+VoiceMind AI Pro is an advanced, multi-lingual AI voice assistant designed to provide a seamless conversational experience. It can transcribe spoken words, translate between multiple languages, generate intelligent responses, and convert them back to speech with natural voice synthesis.
+
+**Tags:** #voice-assistant #speech-recognition #voice-synthesis #translation #nlp #streamlit #whisper-ai #sentiment-analysis #chatbot #multi-language #audio-processing #machine-learning
 
 ---
 
